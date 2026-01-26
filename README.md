@@ -140,3 +140,4 @@ For common questions, the FAQ can be found [here](https://ai.meta.com/llama/faq/
 
 ## Original Llama
 The repo for the original llama release is in the [`llama_v1`](https://github.com/facebookresearch/llama/tree/llama_v1) branch.
+Created by Jason Scott Heise
